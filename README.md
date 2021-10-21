@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot.svg)
+![](images/Screenshot.svg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/asthabarwal/Order-summary-thingy/blob/main/index.html)
+- Live Site URL:(https://asthabarwal.github.io/Order-summary-thingy/)
 
 ## My process
 
